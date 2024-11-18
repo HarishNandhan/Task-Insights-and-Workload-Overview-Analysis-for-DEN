@@ -30,7 +30,7 @@ Our dashboard provides a comprehensive and interactive experience, ensuring stak
 I'd like to acknowledge the valuable contributions of my team members:
 
 - **[Rissi Kumar Prabhakaran](https://github.com/RISSIKUMARP/RISSIKUMARP)**
-- **[DDnyaneshwari Rakshe](https://github.com/dnyaneshwari2502)**
+- **[Dnyaneshwari Rakshe](https://github.com/dnyaneshwari2502)**
 - **[Pramod Kumar](https://github.com/pramodkumar26)**
 
 
